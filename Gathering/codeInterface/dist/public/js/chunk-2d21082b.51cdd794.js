@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21082b"],{b7cc:function(n,c,e){"use strict";e.r(c);var t=function(){var n=this,c=n.$createElement,e=n._self._c||c;return e("div",[n._v(" 电子电器类 ")])},u=[],r={},s=r,a=e("2877"),i=Object(a["a"])(s,t,u,!1,null,"643952c4",null);c["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d21082b.51cdd794.js.map

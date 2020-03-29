@@ -1,0 +1,191 @@
+{
+  "id": "1679381",
+  "name": "ydd",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "3-9学习",
+  "glyphs": [
+    {
+      "icon_id": "8097168",
+      "name": "消息空- 收藏空",
+      "font_class": "xiaoxikong-shoucangkong",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "1742207",
+      "name": "空订单 ",
+      "font_class": "kongdingdan",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "2997520",
+      "name": "微信",
+      "font_class": "weixin2",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8649274",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "361750",
+      "name": "apple",
+      "font_class": "apple",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2700213",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "5234182",
+      "name": "支付宝",
+      "font_class": "umidd17",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "9706679",
+      "name": "银联",
+      "font_class": "yinlian",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "3204310",
+      "name": "待评价",
+      "font_class": "icon-anxinqiao-",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "4452457",
+      "name": "空的购物车",
+      "font_class": "kongdegouwuche",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "5158170",
+      "name": "婴儿",
+      "font_class": "yinger",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "13277708",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12819832",
+      "name": "婴儿",
+      "font_class": "yinger-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "5927737",
+      "name": "收 藏 (1)",
+      "font_class": "shoucang-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4418719",
+      "name": "优惠卷",
+      "font_class": "youhuijuan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "2102854",
+      "name": "我的收藏",
+      "font_class": "shoucang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "2159090",
+      "name": "我的订单",
+      "font_class": "dingdan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3632662",
+      "name": "我的地址",
+      "font_class": "wodedizhi",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "8925514",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7423991",
+      "name": "代付款",
+      "font_class": "weichentubiao_",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3977710",
+      "name": "退换修",
+      "font_class": "tuihuanxiu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4815708",
+      "name": "代发货",
+      "font_class": "daifahuo",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "1899211",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "13143087",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8989922",
+      "name": "个人中心",
+      "font_class": "ren",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12904917",
+      "name": "小米",
+      "font_class": "xiaomi2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

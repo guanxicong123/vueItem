@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf2a5"],{"630b":function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v(" 服装类 ")])},u=[],a={},r=a,s=c("2877"),i=Object(s["a"])(r,t,u,!1,null,"2eebf50c",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0cf2a5.7d330674.js.map

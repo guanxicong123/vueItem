@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab4f5"],{1572:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 食具类 ")])},u=[],a={},r=a,s=t("2877"),i=Object(s["a"])(r,c,u,!1,null,"43c6eb49",null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0ab4f5.847833c9.js.map
